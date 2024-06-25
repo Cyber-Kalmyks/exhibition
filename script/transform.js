@@ -1,4 +1,4 @@
-export const transformPokeball = [
+export const costume = [
   {
     scale: { x: 0.5, y: 0.5, z: 0.5 },
     rotationY: -5.1,
