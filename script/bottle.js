@@ -8,7 +8,7 @@ import "../style.css";
 const canvas = document.querySelector("canvas.webgl");
 // const helper = new THREE.AxesHelper()
 // scene.add(helper)
-const modelThree = "../costume.glb";
+const modelThree = "../bottle.glb";
 // Scene
 const scene = new THREE.Scene();
 // Sizes
@@ -51,7 +51,7 @@ gltfLoader.load(
   (xhr) => {
     // Этот код будет выполнен
     // в процессе загрузки
-    const totalSized = 92976648; // При каждой новой модели занести количество байтов
+    const totalSized = 28955816; // При каждой новой модели занести количество байтов
     // console.log(xhr.loaded, xhr.total, xhr.loaded / totalSized);
     let preload = (xhr.loaded / totalSized) * 100 + "";
     let preloadSplit = preload.split(".");
