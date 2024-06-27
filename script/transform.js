@@ -212,3 +212,73 @@ export const daggerMobile = [
     positionY: 0.2,
   },
 ];
+
+export const jewerly = [
+  {
+    scale: { x: 0.1, y: 0.1, z: 0.1 },
+    rotationY: 0,
+    rotationX: 0,
+    rotationZ: 0,
+    positionY: 0.6,
+    positionX: -0.4,
+  },
+  {
+    scale: { x: 0.12, y: 0.12, z: 0.12 },
+    rotationY: 2,
+    rotationX: 0,
+    rotationZ: 0,
+    positionY: 0.6,
+    positionX: 0.3,
+  },
+  {
+    scale: { x: 0.17, y: 0.17, z: 0.17 },
+    rotationY: 4,
+    rotationX: 0,
+    rotationZ: 0,
+    positionY: 1.2,
+    positionX: 0,
+  },
+  {
+    scale: { x: 0.1, y: 0.1, z: 0.1 },
+    rotationY: -2.3,
+    rotationX: 0,
+    rotationZ: 0,
+    positionY: 0.6,
+    positionX: 0.4,
+  },
+];
+
+export const jewerlyMobile = [
+  {
+    scale: { x: 0.05, y: 0.05, z: 0.05 },
+    rotationY: 0,
+    rotationX: 0,
+    rotationZ: 0,
+    positionY: 0.6,
+    positionX: 0,
+  },
+  {
+    scale: { x: 0.05, y: 0.05, z: 0.05 },
+    rotationY: 1,
+    rotationX: 0,
+    rotationZ: 0,
+    positionY: 0.7,
+    positionX: 0,
+  },
+  {
+    scale: { x: 0.1, y: 0.1, z: 0.1 },
+    rotationY: 4,
+    rotationX: 0,
+    rotationZ: 0,
+    positionY: 1.1,
+    positionX: 0.2,
+  },
+  {
+    scale: { x: 0.05, y: 0.05, z: 0.05 },
+    rotationY: -2.3,
+    rotationX: 0,
+    rotationZ: 0,
+    positionY: 0.6,
+    positionX: 0,
+  },
+];
