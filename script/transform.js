@@ -282,3 +282,73 @@ export const jewerlyMobile = [
     positionX: 0,
   },
 ];
+
+export const kibitka = [
+  {
+    scale: { x: 0.3, y: 0.3, z: 0.3 },
+    rotationY: 0.5,
+    rotationX: 0.3,
+    rotationZ: 0,
+    positionY: 0.4,
+    positionX: -0.4,
+  },
+  {
+    scale: { x: 0.3, y: 0.3, z: 0.3 },
+    rotationY: 0,
+    rotationX: 1.3,
+    rotationZ: 0,
+    positionY: 0.4,
+    positionX: 0.3,
+  },
+  {
+    scale: { x: 0.5, y: 0.5, z: 0.5 },
+    rotationY: 0.2,
+    rotationX: 0,
+    rotationZ: 0,
+    positionY: 0.3,
+    positionX: -0.4,
+  },
+  {
+    scale: { x: 0.7, y: 0.7, z: 0.7 },
+    rotationY: -0.8,
+    rotationX: 0,
+    rotationZ: 0,
+    positionY: 0.2,
+    positionX: 0.4,
+  },
+];
+
+export const kibitkaMobile = [
+  {
+    scale: { x: 0.19, y: 0.19, z: 0.19 },
+    rotationY: 0.5,
+    rotationX: 0.3,
+    rotationZ: 0,
+    positionY: 0.5,
+    positionX: 0,
+  },
+  {
+    scale: { x: 0.19, y: 0.19, z: 0.19 },
+    rotationY: 0,
+    rotationX: 1.3,
+    rotationZ: 0,
+    positionY: 0.55,
+    positionX: 0,
+  },
+  {
+    scale: { x: 0.4, y: 0.4, z: 0.4 },
+    rotationY: 0,
+    rotationX: 0.2,
+    rotationZ: 0,
+    positionY: 0.6,
+    positionX: 0,
+  },
+  {
+    scale: { x: 0.4, y: 0.4, z: 0.4 },
+    rotationY: -0.4,
+    rotationX: 0.2,
+    rotationZ: 0,
+    positionY: 0.5,
+    positionX: 0,
+  },
+];
