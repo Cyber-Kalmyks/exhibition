@@ -23,7 +23,6 @@ window.addEventListener("resize", function () {
 
 // GLTF Loader
 let pokeball = null;
-let py = -2.9;
 const gltfLoader = new GLTFLoader();
 
 gltfLoader.load(
